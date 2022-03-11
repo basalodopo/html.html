@@ -1,0 +1,26 @@
+@media screen and (max-width: 900px){
+	body{
+		background-color:lightcoral;
+	}
+}
+
+@media screen and (max-width: 609px){
+	body{
+		background-color: hotpink;
+	}
+}
+
+#review{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+#button1{
+	background-color: red;
+	size: 100%;
+}
+
+#button2{
+	background-color: blue;
+}
